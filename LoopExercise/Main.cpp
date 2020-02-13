@@ -1,3 +1,7 @@
+/*
+* Made by Jin Chen for a challenge in the Udemy course taught by Frank J. Mitropoulos.
+* Playing with loops and vectors.
+*/
 #include <iostream>
 #include <vector>
 
